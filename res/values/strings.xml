@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADB Serial 4 Digit LED</string>
+    <string name="randomize">Randomize</string>
+
+</resources>
